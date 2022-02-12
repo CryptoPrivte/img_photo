@@ -1,0 +1,16 @@
+{
+    "name": "Season INO",
+    "description": "Genesis card",
+    "image_url": "https://user-images.githubusercontent.com/87537127/153697781-08445fdf-bb16-465f-b561-d5db2eb93634.png",
+    "attributes": [
+        {
+          "trait_type": "class", 
+          "value": "genesis"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 1624955102
+        }        
+      ]
+}
